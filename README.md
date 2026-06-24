@@ -60,5 +60,4 @@ perfil = {
 ## 📬 Contacto
 
 📧 isis.schz14@gmail.com  
-📞 +52 (492) 128 2555  
 📋 Cédulas profesionales: 12951047 & 15301911
